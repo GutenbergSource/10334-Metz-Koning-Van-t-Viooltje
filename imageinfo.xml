@@ -1,0 +1,24 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="219" filedate="2018-11-09 22:31:35" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="230" filedate="2018-11-09 22:31:35" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="159" filedate="2018-11-09 22:31:36" width="12px" height="12px">
+</image>
+<image path="images/new-cover-tn.jpg" filesize="18190" filedate="2018-11-09 22:31:36" width="213px" height="320px">
+</image>
+<image path="images/new-cover.jpg" filesize="88734" filedate="2018-11-09 22:31:36" width="480px" height="720px">
+</image>
+<image path="images/p1.jpg" filesize="21584" filedate="2018-11-09 22:31:36" width="256px" height="181px">
+</image>
+<image path="images/p2.jpg" filesize="95073" filedate="2018-11-09 22:31:36" width="512px" height="343px">
+</image>
+<image path="images/p3.jpg" filesize="87760" filedate="2018-11-09 22:31:36" width="512px" height="343px">
+</image>
+<image path="images/p4.png" filesize="22461" filedate="2018-11-09 22:31:39" width="512px" height="340px">
+</image>
+<image path="images/p5.jpg" filesize="90879" filedate="2018-11-09 22:31:39" width="512px" height="340px">
+</image>
+<image path="images/qrcode.png" filesize="267" filedate="2018-11-09 22:31:48" width="148px" height="148px">
+</image>
+</images>

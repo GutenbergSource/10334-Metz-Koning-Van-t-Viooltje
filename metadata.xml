@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Van ’t Viooltje dat weten wilde</dc:title>
+      <dc:creator>Maria Catherina Metz-Koning (1864–1926)</dc:creator>
+      <dc:creator>Simon Moulijn (1866–1948)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2003-11-01</dc:publisher>
+      <dc:date>2003-11-01</dc:date>
+      <dc:rights>Public Domain.
+Publication Date: 1900 (this edition 1913).
+This work was originally published with the author’s name spelled Marie Marx-Koning.
+</dc:rights>
+      <dc:identifier>pg:10334</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
